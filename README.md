@@ -63,6 +63,6 @@ Want to contribute? Great!
 
 # Authors
 
-    Kush Gupta - IIIT SRI CITY
-        Email - kush.g20@iiits.in
+    Kush Gupta
+        Email - kushgupta0117@gmail.com
         LinkedIn - https://www.linkedin.com/in/kushgupta0117/
